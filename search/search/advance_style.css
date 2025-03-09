@@ -65,25 +65,8 @@ hr
     line-height: 16px;
     gap: 4%;
 }
-
-.lower
-{
-    background-color: black;
-    color: white;
-}
-.upper_lower
-{
-    display: flex;
-    align-items: center;
-    padding-left: 2%;
-    height: 5vh;
-}
-.upper_lower p
-{
-    margin-left: 2%;
-}
-hr
-{
-    height: 2px;
-    border-top: 1px solid grey;
+.left, .inputting, .middle{
+    margin-right: 10px;
+    margin-left: 10px;
+    width: 170px;
 }
